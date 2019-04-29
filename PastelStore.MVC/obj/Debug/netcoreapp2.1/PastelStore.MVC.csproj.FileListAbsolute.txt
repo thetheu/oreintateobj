@@ -1,0 +1,11 @@
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.csprojAssemblyReference.cache
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfoInputs.cache
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfo.cs
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.deps.json
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.runtimeconfig.json
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.runtimeconfig.dev.json
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.dll
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.pdb
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.dll
+C:\Users\44056839808\Documents\Senai\00\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.pdb
